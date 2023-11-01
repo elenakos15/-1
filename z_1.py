@@ -1,0 +1,7 @@
+print("vvedi nazvanie")
+a = input()
+print("vvedi vozrast")
+b = input()
+print("vvedi klihky")
+c = input()
+print(a,b,c,sep=".")
